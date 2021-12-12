@@ -288,7 +288,7 @@ enum SkillType {
 
 
 // Number of agents on the team
-#define NUM_AGENTS 11
+#define NUM_AGENTS 4
 
 #define GAZEBO_AGENT_TYPE -1
 
